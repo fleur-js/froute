@@ -931,10 +931,18 @@
     immer "^8.0.0"
     invariant "^2.2.4"
 
-"@fleur/react@^4.0.1":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@fleur/react/-/react-4.0.1.tgz#fb5068d4dc7d84439222811c836e8e66f0f39ef8"
-  integrity sha512-8r+G9aK2bk6ckyNRfIUPxGMEPsxPl1EKkQqtjZAnnKoH4LGy6lHUPA3QZZBC3+Eb9i9hHyjgfQ42bydkvnJLXw==
+"@fleur/froute@1.0.0-beta.12":
+  version "1.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/@fleur/froute/-/froute-1.0.0-beta.12.tgz#d1235aef58d02a488cee55435ad4103094ac39d0"
+  integrity sha512-jIfxsBGZg6a0uf9MvcKU8BOFdu+Dd7Sr4iVqzNunIs8bl4vakjggaJoCyYqYc/yQ1XMOhWnT5AK0SMRFOiIjeA==
+  dependencies:
+    history "^5.0.0"
+    path-to-regexp "^6.1.0"
+
+"@fleur/react@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@fleur/react/-/react-5.0.0.tgz#e6127a55958a3878c1d07ab510a2dc9d567371a9"
+  integrity sha512-PETkur87HjuiliM0B3tCJEUvDcdYs2h71YJ9+I9ZqE/GLq59rCGFAtFj65HsQ4lt5vESk3Rw4fpolG1vloQhKA==
 
 "@hanakla/rescue@^1.0.3":
   version "1.0.3"
