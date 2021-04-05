@@ -17,7 +17,7 @@
     "example:start": "wsrun -p examples -c start"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "@typescript-eslint/eslint-plugin": "^4.0.0",
     "@typescript-eslint/parser": "^3.10.1",
     "cross-env": "^7.0.2",
     "eslint": "^7.7.0",
