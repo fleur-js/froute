@@ -923,13 +923,21 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fleur/fleur@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@fleur/fleur/-/fleur-2.0.0.tgz#e92a0b8d05037c84573065c0c564ce46cf929933"
-  integrity sha512-MuYFpB1jqkAZKGXm15oq31Q3dpwLn7zeDoIv+xC0krVMeSZnHfdcqzYJ8ScI7rsfrwQ0G2TYG3Zq0+v/eMCtjw==
+"@fleur/fleur@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@fleur/fleur/-/fleur-3.0.0.tgz#af70964daf451014189d45cce9c5ddc682a8125f"
+  integrity sha512-MCaeSKt+hBF3tzQz81qWpkjcgyF6qcgu00TfWA6LTBWBoXVQegEdBkU9HQ4sU0mK0XF67ed2yWkw6zWmCQmnjw==
   dependencies:
-    immer "^8.0.0"
+    immer "^8.0.1"
     invariant "^2.2.4"
+
+"@fleur/froute@1.0.0-beta.12":
+  version "1.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/@fleur/froute/-/froute-1.0.0-beta.12.tgz#d1235aef58d02a488cee55435ad4103094ac39d0"
+  integrity sha512-jIfxsBGZg6a0uf9MvcKU8BOFdu+Dd7Sr4iVqzNunIs8bl4vakjggaJoCyYqYc/yQ1XMOhWnT5AK0SMRFOiIjeA==
+  dependencies:
+    history "^5.0.0"
+    path-to-regexp "^6.1.0"
 
 "@fleur/react@^4.0.1":
   version "4.0.1"
@@ -4506,7 +4514,7 @@ ignore@^5.1.4:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
   integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
-immer@^8.0.0:
+immer@^8.0.1:
   version "8.0.1"
   resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
   integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
