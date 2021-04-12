@@ -931,6 +931,14 @@
     immer "^8.0.0"
     invariant "^2.2.4"
 
+"@fleur/froute@1.0.0-beta.12":
+  version "1.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/@fleur/froute/-/froute-1.0.0-beta.12.tgz#d1235aef58d02a488cee55435ad4103094ac39d0"
+  integrity sha512-jIfxsBGZg6a0uf9MvcKU8BOFdu+Dd7Sr4iVqzNunIs8bl4vakjggaJoCyYqYc/yQ1XMOhWnT5AK0SMRFOiIjeA==
+  dependencies:
+    history "^5.0.0"
+    path-to-regexp "^6.1.0"
+
 "@fleur/react@^4.0.1":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@fleur/react/-/react-4.0.1.tgz#fb5068d4dc7d84439222811c836e8e66f0f39ef8"
@@ -9298,9 +9306,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.3.tgz#b5f259c82cd6e336921efd7bfd8bf560de9eeedf"
+  integrity sha512-JKhqTOwSrqNA1NY5lSztJ1GrBiUodLMmIZuLiDaMRJ+itFd+ABVE8XBjOvIWL+rSqNDC74LCSFmlb/U4UZ4hJQ==
 
 yallist@^4.0.0:
   version "4.0.0"
