@@ -931,6 +931,14 @@
     immer "^8.0.0"
     invariant "^2.2.4"
 
+"@fleur/froute@1.0.0-beta.12":
+  version "1.0.0-beta.12"
+  resolved "https://registry.yarnpkg.com/@fleur/froute/-/froute-1.0.0-beta.12.tgz#d1235aef58d02a488cee55435ad4103094ac39d0"
+  integrity sha512-jIfxsBGZg6a0uf9MvcKU8BOFdu+Dd7Sr4iVqzNunIs8bl4vakjggaJoCyYqYc/yQ1XMOhWnT5AK0SMRFOiIjeA==
+  dependencies:
+    history "^5.0.0"
+    path-to-regexp "^6.1.0"
+
 "@fleur/react@^4.0.1":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@fleur/react/-/react-4.0.1.tgz#fb5068d4dc7d84439222811c836e8e66f0f39ef8"
@@ -5757,9 +5765,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.4:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
