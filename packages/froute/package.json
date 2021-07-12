@@ -29,7 +29,7 @@
     "@types/history": "^4.7.7",
     "@types/jest": "^26.0.19",
     "@types/path-to-regexp": "^1.7.0",
-    "@types/react": "^17.0.0",
+    "@types/react": "^17.0.14",
     "bili": "^5.0.5",
     "jest": "^26.6.3",
     "react": "^17.0.1",
