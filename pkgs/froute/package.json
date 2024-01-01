@@ -41,7 +41,7 @@
     "tsd": "^0.14.0",
     "typescript": "^5.0.4",
     "vite": "^4.3.5",
-    "vite-plugin-dts": "^2.3.0",
+    "vite-plugin-dts": "^3.7.0",
     "vite-plugin-node-stdlib-browser": "^0.2.1",
     "vitest": "^0.31.0"
   },
