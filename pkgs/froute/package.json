@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "history": "^5.0.0",
-    "jsdom": "^22.0.0",
+    "jsdom": "^23.2.0",
     "path-to-regexp": "^6.1.0"
   },
   "volta": {
